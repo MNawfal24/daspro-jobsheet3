@@ -10,10 +10,6 @@ public class Tugas01Jobsheet3{
         boolean banyakpenggunaan = penggunaan > 500;
         System.out.println("total tagihan Listrik: Rp " + totalTagihan);
         System.out.println(" melebihi 500 atau tidak = " + banyakpenggunaan);
-
-
-
-
     }
 }
 
